@@ -50,3 +50,13 @@ git push
 
 If you find this project useful, you can support it via Open Collective:
 https://opencollective.com/alilegacy
+## Support
+
+AliLegacy is an independent open-source technical experiment.
+
+If you wish to support continued documentation and experimentation,
+you may do so via Open Collective:
+
+👉 https://opencollective.com/ALILEGACY
+
+Support is optional and does not imply endorsement or affiliation.
