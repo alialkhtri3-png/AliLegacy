@@ -31,3 +31,5 @@ This project serves as a **portfolio proof**, not a production application.
 - License: MIT
 - Repository state: Clean & documented
 - Target environment: Linux / ARM64 / Termux-ready
+- package-lock.json
+- 
