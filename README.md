@@ -43,3 +43,6 @@ This repository is a **completed technical proof** demonstrating:
 - Visual proof via HTML page
 
 The project is intentionally minimal and finalized.
+git add README.md
+git commit -m "Clean README and add live proof link"
+git push
