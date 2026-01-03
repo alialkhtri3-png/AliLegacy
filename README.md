@@ -25,3 +25,9 @@ It demonstrates:
 
 ## Purpose
 This project serves as a **portfolio proof**, not a production application.
+## Proof Details
+
+- Initial release tag: v1.0.0
+- License: MIT
+- Repository state: Clean & documented
+- Target environment: Linux / ARM64 / Termux-ready
