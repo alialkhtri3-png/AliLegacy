@@ -46,3 +46,7 @@ The project is intentionally minimal and finalized.
 git add README.md
 git commit -m "Clean README and add live proof link"
 git push
+## Support
+
+If you find this project useful, you can support it via Open Collective:
+https://opencollective.com/alilegacy
